@@ -1,0 +1,153 @@
+C:\Users\bests\source\repos\teachme\teachme\bin\teachme.dll.config
+C:\Users\bests\source\repos\teachme\teachme\bin\teachme.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\teachme.pdb
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csc.exe
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csc.exe.config
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csc.rsp
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csi.exe
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csi.exe.config
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\csi.rsp
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.AppContext.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Console.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.IO.Compression.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Net.Http.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.ValueTuple.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\vbc.exe
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\vbc.exe.config
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\vbc.rsp
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\VBCSCompiler.exe
+C:\Users\bests\source\repos\teachme\teachme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bests\source\repos\teachme\teachme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Helpers.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Mvc.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Razor.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.Razor.dll
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Razor.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Webpages.Razor.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Helpers.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\System.Web.Mvc.xml
+C:\Users\bests\source\repos\teachme\teachme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bests\source\repos\teachme\teachme\obj\Debug\teachme.csprojAssemblyReference.cache
+C:\Users\bests\source\repos\teachme\teachme\obj\Debug\teachme.csproj.CoreCompileInputs.cache
+C:\Users\bests\source\repos\teachme\teachme\obj\Debug\teachme.csproj.CopyComplete
+C:\Users\bests\source\repos\teachme\teachme\obj\Debug\teachme.dll
+C:\Users\bests\source\repos\teachme\teachme\obj\Debug\teachme.pdb
+D:\sd lab\teachme\teachme\bin\teachme.dll.config
+D:\sd lab\teachme\teachme\bin\teachme.dll
+D:\sd lab\teachme\teachme\bin\teachme.pdb
+D:\sd lab\teachme\teachme\bin\roslyn\csc.exe
+D:\sd lab\teachme\teachme\bin\roslyn\csc.exe.config
+D:\sd lab\teachme\teachme\bin\roslyn\csc.rsp
+D:\sd lab\teachme\teachme\bin\roslyn\csi.exe
+D:\sd lab\teachme\teachme\bin\roslyn\csi.exe.config
+D:\sd lab\teachme\teachme\bin\roslyn\csi.rsp
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sd lab\teachme\teachme\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.AppContext.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Collections.Immutable.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Console.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Globalization.Calendars.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.IO.Compression.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.IO.FileSystem.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Net.Http.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Net.Sockets.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Reflection.Metadata.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.ValueTuple.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Xml.XPath.dll
+D:\sd lab\teachme\teachme\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sd lab\teachme\teachme\bin\roslyn\vbc.exe
+D:\sd lab\teachme\teachme\bin\roslyn\vbc.exe.config
+D:\sd lab\teachme\teachme\bin\roslyn\vbc.rsp
+D:\sd lab\teachme\teachme\bin\roslyn\VBCSCompiler.exe
+D:\sd lab\teachme\teachme\bin\roslyn\VBCSCompiler.exe.config
+D:\sd lab\teachme\teachme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sd lab\teachme\teachme\bin\Microsoft.Web.Infrastructure.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Helpers.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Mvc.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Razor.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.Deployment.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.Razor.dll
+D:\sd lab\teachme\teachme\bin\System.Web.Razor.xml
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.xml
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.Deployment.xml
+D:\sd lab\teachme\teachme\bin\System.Web.Webpages.Razor.xml
+D:\sd lab\teachme\teachme\bin\System.Web.Helpers.xml
+D:\sd lab\teachme\teachme\bin\System.Web.Mvc.xml
+D:\sd lab\teachme\teachme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sd lab\teachme\teachme\obj\Debug\teachme.csproj.CoreCompileInputs.cache
+D:\sd lab\teachme\teachme\obj\Debug\teachme.csproj.CopyComplete
+D:\sd lab\teachme\teachme\obj\Debug\teachme.dll
+D:\sd lab\teachme\teachme\obj\Debug\teachme.pdb
+D:\sd lab\teachme\teachme\bin\EntityFramework.dll
+D:\sd lab\teachme\teachme\bin\EntityFramework.SqlServer.dll
+D:\sd lab\teachme\teachme\bin\EntityFramework.xml
+D:\sd lab\teachme\teachme\bin\EntityFramework.SqlServer.xml
+D:\sd lab\teachme\teachme\bin\Newtonsoft.Json.dll
+D:\sd lab\teachme\teachme\bin\Newtonsoft.Json.xml
+D:\sd lab\teachme\teachme\obj\Debug\teachme.csprojAssemblyReference.cache
+D:\sd lab\teachme\teachme\bin\Antlr3.Runtime.dll
+D:\sd lab\teachme\teachme\bin\WebGrease.dll
+D:\sd lab\teachme\teachme\bin\Antlr3.Runtime.pdb

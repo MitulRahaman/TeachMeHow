@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d60fbc9241b74785b29523c410c8134f" Name="Diagram1">
+        <EntityTypeShape EntityType="dbteachmeModel.cart" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.CartStatu" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.Category" Width="1.5" PointX="0.625" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.Course" Width="1.5" PointX="2.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.Member" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.MembersRole" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbteachmeModel.Role" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="dbteachmeModel.FK__cart__CourseId__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="dbteachmeModel.FK__Course__IsFeatur__2D27B809" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="dbteachmeModel.PaymentDetail" Width="1.5" PointX="8" PointY="6" />
+        <AssociationConnector Association="dbteachmeModel.FK__PaymentDe__Membe__3E52440B" />
+        <EntityTypeShape EntityType="dbteachmeModel.Product" Width="1.5" PointX="2.875" PointY="10" />
+        <AssociationConnector Association="dbteachmeModel.FK__Product__Price__4AB81AF0" />
+        <EntityTypeShape EntityType="dbteachmeModel.Instructor" Width="1.5" PointX="2.875" PointY="14.375" />
+        <AssociationConnector Association="dbteachmeModel.FK__Instructo__Categ__4E88ABD4" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
